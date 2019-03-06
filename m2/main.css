@@ -1,0 +1,47 @@
+.hd_wrap { width:100%; height: 20px; background-color:#e5e5e5; }
+.item1 { position: relative; }
+.item1 li { float: left; font-size: 12px; width: 400px; position: relative; left:530px;}
+
+.logo_wrap { width: 100%; height: 150px; background-color: #f7f7f7 ;}
+.logo_img { position: relative; left: 800px; top:15px;}
+
+.maum_wrap { width: 100%; height: 30px; background-color: #e2e8ef; }
+.item2 li { width: 100px; float: left; font-size: 11px; text-align: center; background-color: #e2e8ef; position: relative; left: 720px; border-top:1px solid; border-bottom:1px solid; border-left:1px dashed; border-right:1px ; padding:3px;}
+.item2 li:hover { background-color:#ced3d8; transition: 0.5s; }
+
+
+.img_wrap { width: 100%; height: 700px; background-color:#e2e8ef }
+.item4 { background-image:url("img/main_img.png"); 
+background-repeat: no-repeat;
+    width: 100%; height: 700px;  }
+.img_logo {position: relative;  left: 680px; top: 294px;}
+
+.contents { width: 100%; height: 1500px; }
+
+.con1_wrap { width: 100%; height: 600px; background-color:#f7f7f7; }
+
+.Box1 { width: 298px; height: 439px; background-image: url("img/it1.png"); position:absolute; left: 630px; margin-top: 80px; background-size:100%; }
+.Box1:hover {background-size:105%; background-position: center; transition: 0.5s; }
+
+.Box2 { width: 298px; height: 214px; background-image: url("img/it2.png"); position: absolute; left: 940px; margin-top: 304px; background-size:100% }
+.Box2:hover {background-size:105%; background-position: center; transition: 0.5s; }
+
+.Box3 { width: 144px; height: 214px; background-image: url("img/it3.png"); position: absolute; left: 940px; margin-top: 80px; background-size:100%  }
+.Box3:hover {background-size:105%; background-position: center; transition: 0.5s; }
+
+.Box4 { width: 144px; height: 214px; background-image: url("img/it4.png"); position: absolute; left: 1094px; margin-top: 80px; background-size:100%}
+.Box4:hover { background-size:105%; background-position: center; transition: 0.5s; }
+
+.con2_wrap {width: 100%; height: 590px; background-color:#ededed; }
+
+.aBox1 { width: 230px; height: 330px; background-image:url(img/no1.png); position:absolute; left: 460px; margin-top: 70px; }
+
+.aBox2 { width: 230px; height: 330px; background-image:url(img/no2.png); position:absolute; left: 710px; margin-top: 70px; }
+
+.aBox3 { width: 230px; height: 330px; background-image:url(img/no3.png); position:absolute; left: 960px; margin-top: 70px; }
+
+.aBox4 { width: 230px; height: 330px; background-image:url(img/no4.png); position:absolute; left: 1210px; margin-top: 70px; }
+
+.con2_tit { width: 598px; height: 50px; background-image: url(logo/con2_tit.png); position: absolute; left: 650px; margin-top: 12px;}
+
+.co2_txt {width: 292px; height: 139px; background-image: url(logo/con2_txt2.png); position: absolute; margin-top: 422px; left: 805px;}
